@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**dhiyaberbaii/dhiyaberbaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hallo, ich bin Dhia! 👋
 
-Here are some ideas to get you started:
+🎓 Informatikstudent (B.Sc.) an der Technischen Universität Braunschweig.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Ich interessiere mich besonders für Softwareentwicklung und möchte meine Kenntnisse durch praktische Projekte kontinuierlich erweitern.
+
+## 🛠️ Technologien & Tools
+
+- **Programmiersprache:** Java
+- **Versionsverwaltung:** Git, GitHub
+- **Entwicklungsumgebung:** Visual Studio Code
+- **Betriebssysteme:** Linux, Windows
+
+## 🚀 Aktuell
+
+- Vertiefung meiner Java-Kenntnisse
+- Weiterentwicklung meiner Fähigkeiten in der objektorientierten Programmierung
+- Aufbau eigener Softwareprojekte
+
+## 📫 Kontakt
+
+[LinkedIn](https://www.linkedin.com/in/dhia-berbai-7b7312249/)
